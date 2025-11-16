@@ -6,8 +6,10 @@
 body {
   background-color: #e5e5e5;
   margin: 10px;
+  font-size: 32px;
   color: #df2e2f;
   font-weight: bold;
+  font-family: Barlow;
 }
 header {
   border: 15px solid black;
