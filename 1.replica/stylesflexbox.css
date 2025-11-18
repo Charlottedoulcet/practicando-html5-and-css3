@@ -146,9 +146,6 @@ footer {
   .articles {
     flex-direction: column;
   }
-  .blank {
-    margin: 10px;
-  }
   .comments {
     margin-top: 20px;
   }
